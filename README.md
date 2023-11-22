@@ -1,5 +1,5 @@
 # HtH-team-data-exploration
-Hack the Hood Yellow Team's Team Data Exploration Repository
+Hack the Hood Yellow Team's Data Exploration Repository
 
 ## Yellow Teamers :)
 1. Asma
